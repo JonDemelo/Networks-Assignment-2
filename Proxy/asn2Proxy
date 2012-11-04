@@ -1,0 +1,3 @@
+#!/bash/bin
+python /Proxy/Proxy.py
+python /Client/Client.py
